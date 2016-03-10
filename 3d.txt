@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD Whatever
 Something is supposed to be here
 =======
 WHatever
